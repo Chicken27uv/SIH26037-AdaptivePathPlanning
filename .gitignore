@@ -1,0 +1,36 @@
+# MATLAB generated files
+*.asv
+*.autosave
+*.m~
+*.mlx.autosave
+
+# Simulink generated/derived folders
+slprj/
+work/
+*.slxc
+
+# MATLAB cache/preferences
+*.mat~
+*.mldatx~
+
+# Code generation/build output
+codegen/
+_codegen/
+*_ert_rtw/
+*_grt_rtw/
+*_slrt_rtw/
+
+# Coverage/profiling output
+coverage/
+html/
+profile/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+temp/
+tmp/
+
+# Large generated results - keep intentional final results separately

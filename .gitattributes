@@ -1,0 +1,17 @@
+# MATLAB/Simulink files
+*.m text
+*.mlx binary
+*.slx binary
+*.mdl text
+*.mat binary
+*.fig binary
+
+# Documentation
+*.md text
+*.txt text
+
+# Images/videos
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.mp4 binary

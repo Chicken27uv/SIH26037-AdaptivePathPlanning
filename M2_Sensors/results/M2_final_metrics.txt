@@ -1,0 +1,16 @@
+====================================================
+ SIH 26037 - M2-E FINAL FUSION RESULTS
+====================================================
+Fused position RMSE       : 0.278 m
+Mean fused position error : 0.238 m
+Fused velocity RMSE       : 0.492 m/s
+
+Total fused objects        : 503
+
+Position source usage
+LiDAR primary              : 491
+Fallback position          : 12
+
+Semantic / velocity usage
+Camera class used          : 86
+Radar velocity used        : 470

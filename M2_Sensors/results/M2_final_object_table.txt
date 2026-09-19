@@ -1,0 +1,12 @@
+Final-frame fused object list for M3:
+------------------------------------------------------------
+ID    Class            X (m)      Y (m)      Vx         Vy        
+------------------------------------------------------------
+1     Car              12.08      2.24       -0.99      -0.29     
+2     Pedestrian       13.70      -0.57      0.45       -0.81     
+3     Auto-rickshaw    28.17      -2.47      1.65       -0.75     
+4     Two-wheeler      41.06      -0.99      4.32       0.28      
+5     Cattle           26.07      -0.63      -0.25      0.53      
+M2-E final sensor fusion completed successfully.
+M2 fused output saved for M3.
+>> 

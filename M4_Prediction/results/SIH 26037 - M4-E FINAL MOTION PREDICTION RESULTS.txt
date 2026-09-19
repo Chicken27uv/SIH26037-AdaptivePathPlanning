@@ -1,0 +1,17 @@
+=========================================================================
+ SIH 26037 - M4-E FINAL MOTION PREDICTION RESULTS
+==========================================================================
+Object           Selected Model         Base RMSE    Final RMSE   Base Final   Final Error 
+--------------------------------------------------------------------------
+Car              Constant Velocity         0.000 m      0.000 m      0.000 m      0.000 m
+Pedestrian       Constant Velocity         0.164 m      0.164 m      0.228 m      0.228 m
+Auto-rickshaw    Acceleration / Drift      0.301 m      0.147 m      0.515 m      0.385 m
+Two-wheeler      Constant Velocity         0.130 m      0.130 m      0.046 m      0.046 m
+Cattle           Constant Velocity         0.261 m      0.261 m      0.375 m      0.375 m
+==========================================================================
+
+Overall baseline RMSE : 0.201 m
+Overall final RMSE    : 0.163 m
+Overall improvement   : 18.78 %
+M4-E final motion prediction completed successfully.
+>> 

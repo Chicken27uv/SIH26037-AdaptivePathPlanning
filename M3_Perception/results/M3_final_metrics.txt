@@ -1,0 +1,20 @@
+Track IDs observed per actor:
+Car             : 1 
+Pedestrian      : 2 
+Auto-rickshaw   : 3 6 
+Two-wheeler     : 4 
+Cattle          : 5 
+
+========================================
+ SIH 26037 - M3-E FINAL RESULTS
+========================================
+Total detections          : 560
+Tracks created            : 6
+Active tracks at end      : 5
+Missed frames predicted   : 51
+Tracking position RMSE    : 0.644 m
+Tracking velocity RMSE    : 1.107 m/s
+Track fragmentations      : 1
+========================================
+M3-E final tracking simulation completed successfully.
+>> 

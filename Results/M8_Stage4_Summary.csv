@@ -1,0 +1,2 @@
+M6SuccessRate_pct,ScenarioCompletionRate_pct,CollisionFreeRate_pct,AveragePredictedClearance_m,AverageFinalClearance_m,AveragePlanningTime_s,AverageReplanningLatency_s,AveragePathSmoothness,AveragePathLength_m,TotalReplans
+100,100,100,1.14147073238889,1.10438263807654,0.01000352,0.00859138,0.689533275580266,47.7635656219934,5
